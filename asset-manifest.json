@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.b92aa3b3.js",
-    "static/js/787.6b7abe35.chunk.js": "/react-homework-template/static/js/787.6b7abe35.chunk.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.b92aa3b3.js.map": "/react-homework-template/static/js/main.b92aa3b3.js.map",
-    "787.6b7abe35.chunk.js.map": "/react-homework-template/static/js/787.6b7abe35.chunk.js.map"
+    "main.css": "/goit-react-hw-04-hooks-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-hw-04-hooks-feedback/static/js/main.93c4abb9.js",
+    "static/js/787.6b7abe35.chunk.js": "/goit-react-hw-04-hooks-feedback/static/js/787.6b7abe35.chunk.js",
+    "index.html": "/goit-react-hw-04-hooks-feedback/index.html",
+    "main.7acaea2f.css.map": "/goit-react-hw-04-hooks-feedback/static/css/main.7acaea2f.css.map",
+    "main.93c4abb9.js.map": "/goit-react-hw-04-hooks-feedback/static/js/main.93c4abb9.js.map",
+    "787.6b7abe35.chunk.js.map": "/goit-react-hw-04-hooks-feedback/static/js/787.6b7abe35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.b92aa3b3.js"
+    "static/js/main.93c4abb9.js"
   ]
 }
